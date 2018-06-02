@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassA xmlns:a="http://schemas.datacontract.org/2004/07/WcfServiceTest" xmlns="http://schemas.datacontract.org/2004/07/WcfServiceTest" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+     <a:ClassAString>String from class A.</a:ClassAString>
+        <a:ClassBInClassA>
+          <a:ClassCList>
+            <a:ClassC>
+              <a:ClassCString>Class C String~</a:ClassCString>
+            </a:ClassC>
+            <a:ClassC>
+              <a:ClassCString>Class C String~</a:ClassCString>
+            </a:ClassC>
+            <a:ClassC>
+              <a:ClassCString>Class C String~</a:ClassCString>
+            </a:ClassC>
+          </a:ClassCList>
+        </a:ClassBInClassA>
+        <a:ClassCInClassA>
+          <a:ClassCString>Class C String~</a:ClassCString>
+        </a:ClassCInClassA>
+        <a:Int1>0</a:Int1>
+</ClassA>

@@ -1,0 +1,7 @@
+c:\users\nathan\documents\visual studio 2017\Projects\WcfTest\WcfTest\bin\Debug\WcfTest.exe.config
+c:\users\nathan\documents\visual studio 2017\Projects\WcfTest\WcfTest\bin\Debug\WcfTest.exe
+c:\users\nathan\documents\visual studio 2017\Projects\WcfTest\WcfTest\bin\Debug\WcfTest.pdb
+c:\users\nathan\documents\visual studio 2017\Projects\WcfTest\WcfTest\obj\Debug\WcfTest.csproj.CoreCompileInputs.cache
+c:\users\nathan\documents\visual studio 2017\Projects\WcfTest\WcfTest\obj\Debug\WcfTest.exe
+c:\users\nathan\documents\visual studio 2017\Projects\WcfTest\WcfTest\obj\Debug\WcfTest.pdb
+c:\users\nathan\documents\visual studio 2017\Projects\WcfTest\WcfTest\obj\Debug\WcfTest.csprojResolveAssemblyReference.cache

@@ -1,0 +1,1 @@
+<ClassA xmlns="http://schemas.datacontract.org/2004/07/WcfServiceTest" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><ClassAString>String from class A.</ClassAString><ClassCInClassA><ClassCString>Class C String~</ClassCString></ClassCInClassA><Int1>0</Int1></ClassA>
